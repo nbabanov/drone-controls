@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B208189B-A7D8-CD3C-B9CD-9F037CBBBD8F}") = "OculusDrone", "Assembly-CSharp.csproj", "{EDFBABDA-9F4F-667B-E317-F9430702A592}"
+EndProject
+Project("{B208189B-A7D8-CD3C-B9CD-9F037CBBBD8F}") = "OculusDrone", "Assembly-CSharp-Editor.csproj", "{8FA40D5F-8C93-256F-CE53-A4F4F6FCBFA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFBABDA-9F4F-667B-E317-F9430702A592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFBABDA-9F4F-667B-E317-F9430702A592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFBABDA-9F4F-667B-E317-F9430702A592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFBABDA-9F4F-667B-E317-F9430702A592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA40D5F-8C93-256F-CE53-A4F4F6FCBFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA40D5F-8C93-256F-CE53-A4F4F6FCBFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA40D5F-8C93-256F-CE53-A4F4F6FCBFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA40D5F-8C93-256F-CE53-A4F4F6FCBFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
