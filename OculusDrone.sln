@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{B208189B-A7D8-CD3C-B9CD-9F037CBBBD8F}") = "OculusDrone", "Assembly-CSharp.csproj", "{EDFBABDA-9F4F-667B-E317-F9430702A592}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusDrone", "Assembly-CSharp.csproj", "{EDFBABDA-9F4F-667B-E317-F9430702A592}"
 EndProject
-Project("{B208189B-A7D8-CD3C-B9CD-9F037CBBBD8F}") = "OculusDrone", "Assembly-CSharp-Editor.csproj", "{8FA40D5F-8C93-256F-CE53-A4F4F6FCBFA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusDrone", "Assembly-CSharp-Editor.csproj", "{8FA40D5F-8C93-256F-CE53-A4F4F6FCBFA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
